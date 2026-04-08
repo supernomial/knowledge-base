@@ -1,0 +1,415 @@
+{
+  "doc_name": "US Transfer Pricing Country Profile",
+  "structure": [
+    {
+      "title": "United States -- Transfer Pricing Country Profile",
+      "node_id": "0000",
+      "line_num": 26,
+      "nodes": [
+        {
+          "title": "The Arm's Length Principle",
+          "node_id": "0001",
+          "line_num": 30,
+          "nodes": [
+            {
+              "title": "Q1: Reference to the arm's length principle",
+              "node_id": "0002",
+              "line_num": 32,
+              "summary": "### Q1: Reference to the arm's length principle\n- **Answer:** Yes\n- **Detail:** The US domestic transfer pricing framework makes reference to the arm's length principle.\n- **Reference:** Treas. Reg. sections 1.482-1 through 1.482-9"
+            },
+            {
+              "title": "Q2: Role or status of OECD Transfer Pricing Guidelines",
+              "node_id": "0003",
+              "line_num": 37,
+              "summary": "### Q2: Role or status of OECD Transfer Pricing Guidelines\n- **Answer:** No\n- **Detail:** Other than the current cross-reference to the Amount B Report in Notice 2025-4, our domestic transfer pricing framework does not explicitly reference the TPG. However, all US transfer pricing regulations are consistent with the TPG.\n- **Reference:** Notice 2025-4, I.R.B. 2025-3, page 419; Treas. Reg. sections 1.482-1 through 1.482-9"
+            },
+            {
+              "title": "Q3: Definition of related parties for transfer pricing purposes",
+              "node_id": "0004",
+              "line_num": 42,
+              "summary": "### Q3: Definition of related parties for transfer pricing purposes\n- **Answer:** Yes\n- **Detail:** \"Controlled taxpayer means any one of two or more taxpayers owned or controlled directly or indirectly by the same interests, and includes the taxpayer that owns or controls the other taxpayers.\" Treas. Reg. section 1.482-1(i)(5). This is a facts and circumstances analysis without pre-determined thresholds. Control includes \"any kind of control, direct or indirect, whether legally enforceable or not, and however exercisable or exercised, including control resulting from the actions of two or more taxpayers acting in concert or with a common goal or purpose.\" Treas. Reg. section 1.482-1(i)(4).\n- **Reference:** Treas. Reg. sections 1.482-1(i)(4) and (5)"
+            }
+          ],
+          "prefix_summary": "## The Arm's Length Principle"
+        },
+        {
+          "title": "Transfer Pricing Methods",
+          "node_id": "0005",
+          "line_num": 47,
+          "nodes": [
+            {
+              "title": "Q4: Transfer pricing methods provided for in legislation",
+              "node_id": "0006",
+              "line_num": 49,
+              "summary": "### Q4: Transfer pricing methods provided for in legislation\n- **Answer:** Yes\n- **Detail:** The following methods are provided for:\n  - [x] CUP\n  - [x] Resale Price\n  - [x] Cost Plus\n  - [x] TNMM\n  - [x] Profit Split\n  - [x] Other: Others include variations of the methods listed above as well as income, market cap, and acquisition price methods.\n- **Reference:** Treas. Reg. sections 1.482-3(a), -4(a), -7(g)(1), and -9(a)"
+            },
+            {
+              "title": "Q5: Criterion for application of transfer pricing methods",
+              "node_id": "0007",
+              "line_num": 60,
+              "summary": "### Q5: Criterion for application of transfer pricing methods\n- **Answer:** Most appropriate method\n- **Detail:** The best method rule applies.\n  - [ ] Hierarchy of methods\n  - [x] Most appropriate method\n  - [ ] Other\n- **Reference:** Treas. Reg. section 1.482-1(c)"
+            },
+            {
+              "title": "Q6: Specific guidance on commodity transactions",
+              "node_id": "0008",
+              "line_num": 68,
+              "summary": "### Q6: Specific guidance on commodity transactions\n- **Answer:** No\n- **Detail:** The US does not have specific guidance on commodity transactions, but the guidance in Treas. Reg. 1.482-3(b)(5) is consistent with the guidance in the TPG paragraphs 2.18-2.22.\n  - [ ] For controlled transactions involving commodities, the guidance contained in paragraphs 2.18-2.22 of the TPG is followed.\n  - [ ] Domestic transfer pricing framework provides for the use of a specific method for controlled transactions involving commodities\n  - [x] No\n- **Reference:** Treas. Reg. section 1.482-3(b)(5)"
+            }
+          ],
+          "prefix_summary": "## Transfer Pricing Methods"
+        },
+        {
+          "title": "Comparability Analysis",
+          "node_id": "0009",
+          "line_num": 76,
+          "nodes": [
+            {
+              "title": "Q7: Guidance on comparability analysis consistent with TPG Chapter III",
+              "node_id": "0010",
+              "line_num": 78,
+              "summary": "### Q7: Guidance on comparability analysis consistent with TPG Chapter III\n- **Answer:** Yes\n- **Detail:** US transfer pricing regulations emphasize performing a comparability analysis consistent with the TPG.\n- **Reference:** Treas. Reg. sections 1.482-1(c)(2) and (d); -3(b)(2), (c)(3), and (d)(3); -4(c)(2); -5(c); -6(c)(2)(ii) and (3)(ii); and 1.482-9(c)(2), (d)(3), (e)(3), and (f)(2)(iii)"
+            },
+            {
+              "title": "Q8: Preference for domestic comparables over foreign comparables",
+              "node_id": "0011",
+              "line_num": 83,
+              "summary": "### Q8: Preference for domestic comparables over foreign comparables\n- **Answer:** No\n- **Detail:** There is no preference in the US jurisdiction for domestic comparables over foreign comparables.\n- **Reference:** Treas. Reg. sections 1.482-1(c) and (d)"
+            },
+            {
+              "title": "Q9: Use of secret comparables for transfer pricing assessment",
+              "node_id": "0012",
+              "line_num": 88,
+              "summary": "### Q9: Use of secret comparables for transfer pricing assessment\n- **Answer:** No\n- **Detail:** The US domestic transfer pricing framework does not permit the use of secret comparables for transfer pricing assessment purposes.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q10: Use of arm's length range and/or statistical measure",
+              "node_id": "0013",
+              "line_num": 93,
+              "summary": "### Q10: Use of arm's length range and/or statistical measure\n- **Answer:** Yes\n- **Detail:** Ranges or other statistical methods (including interquartile ranges) may be used to improve the reliability of the results.\n- **Reference:** Treas. Reg. sections 1.482-1(e) and 1.482-7(g)(2)(ix)"
+            },
+            {
+              "title": "Q11: Comparability adjustments required",
+              "node_id": "0014",
+              "line_num": 98,
+              "summary": "### Q11: Comparability adjustments required\n- **Answer:** Yes\n- **Detail:** Comparability adjustments must be made if they improve the reliability of the results with respect to material differences in the comparables.\n- **Reference:** Treas. Reg. section 1.482-1(d)(2)"
+            }
+          ],
+          "prefix_summary": "## Comparability Analysis"
+        },
+        {
+          "title": "Intangible Property",
+          "node_id": "0015",
+          "line_num": 103,
+          "nodes": [
+            {
+              "title": "Q12: Guidance specific to pricing of controlled transactions involving intangibles",
+              "node_id": "0016",
+              "line_num": 105,
+              "summary": "This partial document covers guidance specific to the pricing of controlled transactions involving intangibles in the context of U.S. transfer pricing regulations. The main points include:\n\n1. **Alignment with OECD Transfer Pricing Guidelines (TPG):** The U.S. regulations largely follow Chapter VI of the TPG, which governs intangibles in transfer pricing.\n\n2. **Key Regulatory References:** Several Treasury Regulation sections are highlighted:\n   - **Treas. Reg. section 1.482-4** provides general guidance for controlled transactions involving intangibles, consistent with Chapter VI of the TPG.\n   - **Treas. Reg. section 1.482-7(g)** addresses transfers of existing intangibles within cost contribution arrangements, consistent with Chapters VI and VIII of the TPG.\n   - **Treas. Reg. section 1.482-3(f)** serves as a coordination rule for tangible property transactions that include an embedded intangible component, consistent with Chapter VI of the TPG.\n   - **Treas. Reg. section 1.482-9(m)(2)** addresses services transactions that involve a transfer of intangible property, consistent with Chapters VI and VIII of the TPG.\n\n3. **Scope of Coverage:** The regulations cover various transaction types involving intangibles, including standalone intangible transfers, cost contribution arrangements, tangible property transactions with embedded intangibles, and services transactions that effectively transfer intangible property."
+            },
+            {
+              "title": "Q13: Other rules outside TP framework relevant to intangibles pricing",
+              "node_id": "0017",
+              "line_num": 110,
+              "summary": "### Q13: Other rules outside TP framework relevant to intangibles pricing\n- **Answer:** Yes\n- **Detail:** Domestic rules relating to the tax treatment of intangibles are too numerous to attempt to list here but one such rule of particular relevance is section 367(d), which requires income inclusions with respect to certain outbound transfers of intangible property in transactions that would otherwise qualify as tax-free reorganizations (in whole or in part). The regulations thereunder apply the arm's length principle for purposes of determining the amount of such inclusions.\n- **Reference:** IRC section 367(d) and Treas. Reg. section 1.367(d)-1T"
+            }
+          ],
+          "prefix_summary": "## Intangible Property"
+        },
+        {
+          "title": "Hard-to-Value Intangibles",
+          "node_id": "0018",
+          "line_num": 115,
+          "nodes": [
+            {
+              "title": "Q14: Guidance specific to hard-to-value intangibles (HTVI)",
+              "node_id": "0019",
+              "line_num": 117,
+              "summary": "### Q14: Guidance specific to hard-to-value intangibles (HTVI)\n- **Answer:** Yes; follows the guidance on HTVI in Chapter VI of the TPG\n- **Detail:** The HTVI concept corresponds to the U.S. \"commensurate with income\" or \"CWI\" principle and \"periodic adjustment\" concept in our domestic transfer pricing framework.\n- **Reference:** IRC section 482 (second sentence); Treas. Reg. sections 1.482-4(f)(2) and (6) and 1.482-7(i)(6)"
+            },
+            {
+              "title": "Q15: Conditions for the application of the HTVI approach",
+              "node_id": "0020",
+              "line_num": 122,
+              "summary": "### Q15: Conditions for the application of the HTVI approach\n- **Answer:** The CWI principle generally applies to any intercompany transfer of intangible property. Periodic adjustments under the CWI principle must be consistent with the arm's length principle. Separate periodic adjustment rules are provided for IP transfers in section 1.482-4(f)(2) and (6) and for cost contribution agreements in section 1.482-7(i)(6). For purposes of those regulations, periodic adjustments cannot be made if one of the exceptions in section 1.482-4(f)(2)(ii) or 1.482-7(i)(6)(vi), respectively, applies.\n- **Detail:** See answer above.\n- **Reference:** Treas. Reg. sections 1.482-4(f)(2)(ii) and 1.482-7(i)(6)(vi)"
+            },
+            {
+              "title": "Q16: Different TP analysis or compliance requirements for HTVI transactions",
+              "node_id": "0021",
+              "line_num": 127,
+              "summary": "### Q16: Different TP analysis or compliance requirements for HTVI transactions\n- **Answer:** No.\n- **Detail:** Transactions falling within the scope of the HTVI approach are not subject to a transfer pricing analysis different from the one established in Chapters I and VI, or to other compliance requirements specifically applicable to transfer prices (e.g. domestic anti-abuse rules).\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q17: Statute of limitations for HTVI transactions",
+              "node_id": "0022",
+              "line_num": 132,
+              "summary": "### Q17: Statute of limitations for HTVI transactions\n- **Answer:** The periodic adjustment rules are premised on comparing the price that is paid for IP to the income that is eventually attributable to that IP in the future. And for that purpose, certain exceptions apply that require waiting at least 5 (see, e.g., 1.482-4(f)(2)(ii)(E)) or even 10 years (see, e.g., 1.482-7(i)(6)(vi)(B)(2)), indicating adjustments can otherwise be made even after that period of time. In other words, by its design, the CWI principle requires comparisons over periods of time that exceed the generally applicable statute of limitation under US law, which is 3 years. Thus, the second sentence of section 482 effectively overrides the statute of limitations for purposes of applying the periodic adjustment rules.\n- **Detail:** See answer above.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q18: Bilateral or multilateral APAs for HTVI transactions",
+              "node_id": "0023",
+              "line_num": 137,
+              "summary": "### Q18: Bilateral or multilateral APAs for HTVI transactions\n- **Answer:** Yes\n- **Detail:** Taxpayers can request a bilateral or multilateral advance pricing agreement (\"APA\") for transactions falling within the scope of the HTVI approach under the US domestic transfer pricing framework.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q19: Measures to avoid use of hindsight",
+              "node_id": "0024",
+              "line_num": 142,
+              "summary": "### Q19: Measures to avoid use of hindsight\n- **Answer:** Treas. Reg. section 1.482-4(f)(2)(i) provides that periodic adjustments \"shall be consistent with\" the arm's length principle; section 1.482-7(i)(6)(i) provides that, in determining whether to make a periodic adjustment, the IRS \"may consider whether the outcome as adjusted more reliably reflects an arm's length result under all the relevant facts and circumstances. . . .\"; and both sections -4(f) and -7(i) contain exceptions, including for when ex ante pricing is arm's length by reference to a highly comparable uncontrolled transaction or when a periodic adjustment otherwise would be based on results not reasonably anticipated. These provisions ensure that a periodic adjustment will not be made if it would be an inappropriate use of hindsight.\n- **Detail:** See answer above.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q20: HTVI adjustments in open years for amounts pertaining to closed years",
+              "node_id": "0025",
+              "line_num": 147,
+              "summary": "### Q20: HTVI adjustments in open years for amounts pertaining to closed years\n- **Answer:** Yes\n- **Detail:** It is possible for the tax administration to make adjustments under the HTVI approach in open years amounts pertaining to closed years.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q21: Corresponding adjustments under HTVI for open years pertaining to closed years",
+              "node_id": "0026",
+              "line_num": 152,
+              "summary": "### Q21: Corresponding adjustments under HTVI for open years pertaining to closed years\n- **Answer:** Yes\n- **Detail:** Domestic legislation and regulations do not limit corresponding adjustments with respect to periodic adjustments, just as they do not limit such adjustments for any other transfer pricing adjustment. However, the IRS generally would not make such adjustments in the absence of a MAP request. If the IRS is presented with a MAP request, depending on the facts the IRS might make a corresponding adjustment as part of its initial, unilateral consideration of the case (see 2017 Model Tax Convention Article 25 Commentary, paragraph 32), or alternatively after bilateral consideration of the case.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q22: Multiple adjustments for one single HTVI transaction",
+              "node_id": "0027",
+              "line_num": 157,
+              "summary": "### Q22: Multiple adjustments for one single HTVI transaction\n- **Answer:** Yes\n- **Detail:** It is possible for the tax administration to make several adjustments for one single HTVI transaction under the HTVI approach.\n- **Reference:** N/A"
+            }
+          ],
+          "prefix_summary": "## Hard-to-Value Intangibles"
+        },
+        {
+          "title": "Intra-group Services",
+          "node_id": "0028",
+          "line_num": 162,
+          "nodes": [
+            {
+              "title": "Q23: Guidance specific to intra-group services transactions",
+              "node_id": "0029",
+              "line_num": 164,
+              "summary": "### Q23: Guidance specific to intra-group services transactions\n- **Answer:** Yes; follows (or largely follows) the guidance in Chapter VII of the TPG\n- **Detail:** The guidance in Treas. Reg. section 1.482-9 regarding pricing services is consistent with the guidance in Chapter VII.\n- **Reference:** Treas. Reg. section 1.482-9"
+            },
+            {
+              "title": "Q24: Simplified approach for low value-adding intra-group services",
+              "node_id": "0030",
+              "line_num": 169,
+              "summary": "### Q24: Simplified approach for low value-adding intra-group services\n- **Answer:** Yes; follows (or largely follows) the low value-adding services approach in Chapter VII\n- **Detail:** The services cost method in Treas. Reg. section 1.482-9(b) is consistent with the specific guidance relating to low value-adding intra-group services in Chapter VII.\n- **Reference:** Treas. Reg. section 1.482-9(b)"
+            },
+            {
+              "title": "Q25: Other rules outside TP framework for pricing intragroup services",
+              "node_id": "0031",
+              "line_num": 174,
+              "summary": "### Q25: Other rules outside TP framework for pricing intragroup services\n- **Answer:** Yes\n- **Detail:** Rules relating to the tax treatment of services are too numerous to attempt to list here.\n- **Reference:** N/A"
+            }
+          ],
+          "prefix_summary": "## Intra-group Services"
+        },
+        {
+          "title": "Financial Transactions",
+          "node_id": "0032",
+          "line_num": 179,
+          "nodes": [
+            {
+              "title": "Q26: Guidance specific to financial transactions",
+              "node_id": "0033",
+              "line_num": 181,
+              "summary": "### Q26: Guidance specific to financial transactions\n- **Answer:** Yes; follows (or largely follows) the guidance in Chapter X of the TPG\n- **Detail:** Treas. Reg. section 1.482-2 provides rules regarding pricing intercompany loans that are consistent with the guidance in Chapter X, but our domestic transfer pricing framework does not provide guidance specific to other types of financial transactions for which guidance is provided in Chapter X.\n- **Reference:** Treas. Reg. section 1.482-2"
+            },
+            {
+              "title": "Q27: Other rules outside TP framework relevant to financial transactions",
+              "node_id": "0034",
+              "line_num": 186,
+              "summary": "### Q27: Other rules outside TP framework relevant to financial transactions\n- **Answer:** Yes\n- **Detail:** IRC Section 163(j) limits interest deductions as described in Action 4. IRC Section 267A limits deductions for interest and certain other payments in hybrid situations as described in Action 2. Additional rules relating to the tax treatment of financial transactions are too numerous to attempt to list here.\n- **Reference:** IRC sections 163(j) and 267A, among others"
+            }
+          ],
+          "prefix_summary": "## Financial Transactions"
+        },
+        {
+          "title": "Cost Contribution Arrangements",
+          "node_id": "0035",
+          "line_num": 191,
+          "nodes": [
+            {
+              "title": "Q28: Cost contribution arrangements allowed",
+              "node_id": "0036",
+              "line_num": 193,
+              "summary": "### Q28: Cost contribution arrangements allowed\n- **Answer:** Yes; follows (or largely follows) the guidance in Chapter VIII of the TPG\n- **Detail:** Treas. Reg. section 1.482-7 provides rules for cost sharing arrangements (\"CSAs\"). The CSA regulations are consistent with the guidance on cost contribution arrangements in Chapter VIII of the OECD TPG.\n- **Reference:** Treas. Reg. section 1.482-7"
+            }
+          ],
+          "prefix_summary": "## Cost Contribution Arrangements"
+        },
+        {
+          "title": "Transfer Pricing Documentation",
+          "node_id": "0037",
+          "line_num": 198,
+          "nodes": [
+            {
+              "title": "Q29: Documentation requirements",
+              "node_id": "0038",
+              "line_num": 200,
+              "summary": "### Q29: Documentation requirements\n- **Answer:** Yes\n- **Detail:** The following documentation types apply:\n  - [ ] Master file consistent with Annex I to Chapter V of the TPG\n  - [ ] Local file consistent with Annex II to Chapter V of the TPG\n  - [x] Country-by-country report consistent with Annex III to Chapter V of the TPG\n  - [ ] Specific transfer pricing returns (separate or annexed to the tax return)\n  - [x] Other: Certain documentation requirements are voluntary (but necessary to ensure penalty protection); while in certain cases particular documentation is required in order to take advantage of certain statutory or regulatory protections. In addition, certain information relevant to controlled transactions must be reported on Form 5472 information returns and certain information must be provided upon request.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q30: Requirements related to each transfer pricing documentation requirement",
+              "node_id": "0039",
+              "line_num": 210,
+              "summary": "### Q30: Requirements related to each transfer pricing documentation requirement\n- **Answer:** The relevant requirements are set forth in Treas. Reg. section 1.6662-6(d).\n- **Detail:** See answer above.\n- **Reference:** Treas. Reg. section 1.6662-6(d)"
+            },
+            {
+              "title": "Q31: Transfer pricing penalties and/or compliance incentives regarding documentation",
+              "node_id": "0040",
+              "line_num": 215,
+              "summary": "### Q31: Transfer pricing penalties and/or compliance incentives regarding documentation\n- **Answer:** Yes\n- **Detail:** Taxpayers are generally not required to create or file transfer pricing documentation. However, there are penalties for inaccurate transfer pricing as specified in IRC section 6662 for substantial valuation misstatements and gross valuation misstatements. Transfer pricing documentation that meets certain requirements may reduce or eliminate those penalties.\n- **Reference:** IRC section 6662(e) and (h); Treas. Reg. section 1.6662-6(d)"
+            },
+            {
+              "title": "Q32: Exemption from transfer pricing documentation obligations",
+              "node_id": "0041",
+              "line_num": 220,
+              "summary": "### Q32: Exemption from transfer pricing documentation obligations\n- **Answer:** Yes\n- **Detail:** An ultimate parent entity of a US MNE group is not required to file a Country-by-Country Report if its annual revenue for the immediately preceding reporting period was less than $850 million.\n- **Reference:** Treas. Reg. section 1.6038-4(h)"
+            }
+          ],
+          "prefix_summary": "## Transfer Pricing Documentation"
+        },
+        {
+          "title": "Administrative Approaches to Avoiding and Resolving Disputes",
+          "node_id": "0042",
+          "line_num": 225,
+          "nodes": [
+            {
+              "title": "Q33: Mechanisms available to prevent and/or resolve transfer pricing disputes",
+              "node_id": "0043",
+              "line_num": 227,
+              "summary": "### Q33: Mechanisms available to prevent and/or resolve transfer pricing disputes\n- **Answer:** The following mechanisms are available:\n  - [ ] Rulings\n  - [x] Enhanced engagement or cooperative compliance programmes\n  - [x] Advance Pricing Agreements (APA)\n    - [x] Unilateral APAs\n    - [x] Bilateral APAs\n    - [x] Multilateral APAs\n  - [x] International Compliance Assurance Programme (ICAP)\n  - [x] Mutual Agreement Procedures\n  - [ ] Other\n- **Detail:** For further information on MAP and APAs, please refer to the US's OECD MAP Profile.\n- **Reference:** Rev. Procs. 2015-40 and 2015-41; United States OECD MAP Profile"
+            }
+          ],
+          "prefix_summary": "## Administrative Approaches to Avoiding and Resolving Disputes"
+        },
+        {
+          "title": "Simplified and Streamlined Approach for Baseline Marketing and Distribution Activities",
+          "node_id": "0044",
+          "line_num": 241,
+          "nodes": [
+            {
+              "title": "Q34: Application of the simplified and streamlined approach",
+              "node_id": "0045",
+              "line_num": 243,
+              "summary": "### Q34: Application of the simplified and streamlined approach\n- **Answer:** Yes\n- **Detail:** A notice was released 18 December 2024 announcing that the US Treasury and the IRS intend to issue proposed regulations that, for purposes of applying section 482, implement the substance of the simplified and streamlined approach (\"SSA\") as published in the TPG. This notice also provides guidance concerning application of the SSA to in-scope transactions undertaken by parties subject to U.S. tax with respect to those transactions before issuance of those proposed regulations. U.S. taxpayers may rely on the SSA, under the rules set forth in the notice, for their U.S. tax reporting for taxable years beginning on or after January 1, 2025, and before proposed regulations are published in the Federal Register.\n- **Reference:** Notice 2025-4"
+            },
+            {
+              "title": "Q35: How the simplified and streamlined approach is implemented",
+              "node_id": "0046",
+              "line_num": 248,
+              "summary": "### Q35: How the simplified and streamlined approach is implemented\n- **Answer:** [x] In-scope tested parties resident within the jurisdiction can elect to apply the simplified and streamlined approach (i.e., safe harbour)\n- **Detail:** The following implementation options were presented:\n  - [x] In-scope tested parties resident within the jurisdiction can elect to apply the simplified and streamlined approach (i.e., safe harbour)\n  - [ ] In-scope tested parties resident within the jurisdiction are required to follow the simplified and streamlined approach for in-scope qualified transactions and tax administrations are allowed to impose the application of the simplified and streamlined approach to in-scope qualified transactions of tested parties resident within their jurisdiction (i.e. rule)\n  - [ ] N/A\n- **Reference:** Notice 2025-4"
+            },
+            {
+              "title": "Q36: Operating expense to sales (OES) upper bound for scoping criterion 13.b",
+              "node_id": "0047",
+              "line_num": 256,
+              "summary": "### Q36: Operating expense to sales (OES) upper bound for scoping criterion 13.b\n- **Answer:** Other: The upper bound generally is 30%, but in some cases it can be lower than 30% but no less than 20%. See Notice 2025-4, section 3.02(2).\n- **Detail:** The following options were presented:\n  - [ ] 20%\n  - [ ] 30%\n  - [x] Other (please specify): The upper bound generally is 30%, but in some cases it can be lower than 30% but no less than 20%. See Notice 2025-4, section 3.02(2).\n  - [ ] N/A\n- **Reference:** Notice 2025-4"
+            },
+            {
+              "title": "Q37: Respect for SSA outcome applied by a covered jurisdiction",
+              "node_id": "0048",
+              "line_num": 265,
+              "summary": "### Q37: Respect for SSA outcome applied by a covered jurisdiction\n- **Answer:** Yes\n- **Detail:** The US jurisdiction respects the outcome of the application of the simplified and streamlined approach by a covered jurisdiction in line with the Inclusive Framework political commitment.\n- **Reference:** Notice 2025-4"
+            },
+            {
+              "title": "Q38: Respect for SSA outcome applied by a non-covered jurisdiction",
+              "node_id": "0049",
+              "line_num": 270,
+              "summary": "### Q38: Respect for SSA outcome applied by a non-covered jurisdiction\n- **Answer:** Yes\n- **Detail:** If the US domestic transfer pricing framework allows the application of the simplified and streamlined approach for resident in-scope tested parties, the US jurisdiction respects the outcome of the application of such approach by another jurisdiction that is not a covered jurisdiction.\n- **Reference:** Notice 2025-4"
+            }
+          ],
+          "prefix_summary": "## Simplified and Streamlined Approach for Baseline Marketing and Distribution Activities"
+        },
+        {
+          "title": "Safe Harbours and Other Simplification Measures",
+          "node_id": "0050",
+          "line_num": 275,
+          "nodes": [
+            {
+              "title": "Q39: Safe harbours or other simplification measures",
+              "node_id": "0051",
+              "line_num": 277,
+              "summary": "### Q39: Safe harbours or other simplification measures\n- **Answer:** Yes\n- **Detail:** For certain loans there is a \"safe haven interest rate\" of 100% to 130% of the Applicable Federal Rate under the conditions specified in Treas. Reg. section 1.482-2(a)(iii).\n- **Reference:** Treas. Reg. section 1.482-2(a)(2)(iii)"
+            }
+          ],
+          "prefix_summary": "## Safe Harbours and Other Simplification Measures"
+        },
+        {
+          "title": "Other Legislative Aspects or Administrative Procedures",
+          "node_id": "0052",
+          "line_num": 282,
+          "nodes": [
+            {
+              "title": "Q40: Downward corresponding adjustments without MAP",
+              "node_id": "0053",
+              "line_num": 284,
+              "summary": "### Q40: Downward corresponding adjustments without MAP\n- **Answer:** No\n- **Detail:** Under Treas. Reg. section 1.482-1(a)(3), a controlled taxpayer is not permitted to file an amended return to decrease taxable income.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q41: Year-end adjustments",
+              "node_id": "0054",
+              "line_num": 289,
+              "summary": "### Q41: Year-end adjustments\n- **Answer:** Yes. Year-end adjustments are allowed.\n- **Detail:** Such adjustments are permitted subject to the limitation in Treas. Reg. section 1.482-1(a)(3).\n  - [ ] Yes. Year-end adjustments are required.\n  - [x] Yes. Year-end adjustments are allowed.\n  - [ ] No\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q42: Secondary adjustments",
+              "node_id": "0055",
+              "line_num": 297,
+              "summary": "### Q42: Secondary adjustments\n- **Answer:** Yes\n- **Detail:** Treas. Reg. section 1.482-1(g)(3) provides that conforming adjustments may include treatment as a dividend or capital contribution (as appropriate). In addition, Rev. Proc. 99-32 provides an elective method to treat a conforming adjustment as a loan.\n- **Reference:** Treas. Reg. section 1.482-1(g)(3) and Rev. Proc. 99-32"
+            }
+          ],
+          "prefix_summary": "## Other Legislative Aspects or Administrative Procedures"
+        },
+        {
+          "title": "Attribution of Profits to Permanent Establishments",
+          "node_id": "0056",
+          "line_num": 302,
+          "nodes": [
+            {
+              "title": "Q43: Version of Article 7 in tax treaties",
+              "node_id": "0057",
+              "line_num": 304,
+              "summary": "### Q43: Version of Article 7 in tax treaties\n- **Answer:** Both Article 7 as it read before 2010 and Article 7 as it reads after 2010.\n- **Detail:** [x] Article 7 as it read before 2010. For 57 United States treaties, the United States attributes profits based on the business profits article in the applicable treaty. [x] Article 7 as it reads after 2010. As of January 2021, seven US treaties (ratified and in force) have adopted the AOA: Belgium, Bulgaria, Canada, Germany, Iceland, Japan, United Kingdom. The US Model tax treaty follows the AOA, which is the US preferred position when establishing new tax treaties.\n- **Reference:** US Tax Treaties"
+            },
+            {
+              "title": "Q44: AOA applied to treaties with Article 7 as it read before 2010",
+              "node_id": "0058",
+              "line_num": 309,
+              "summary": "### Q44: AOA applied to treaties with Article 7 as it read before 2010\n- **Answer:** No\n- **Detail:** The United States does not view the AOA as applicable to treaties with the old version of Article 7.\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q45: Specific guidance for attribution of profits to PEs of non-resident entities",
+              "node_id": "0059",
+              "line_num": 314,
+              "summary": "### Q45: Specific guidance for attribution of profits to PEs of non-resident entities\n- **Answer:** No\n- **Detail:** The following options were presented:\n  - [ ] Yes, they follow the AOA as described in the 2008 Report on the Attribution of Profits to Permanent Establishments\n  - [ ] Yes, they follow the AOA as described in the 2010 Report on the Attribution of Profits to Permanent Establishments\n  - [ ] Yes, they do not follow the AOA (please provide a summary of the main features of these rules)\n  - [x] No\n- **Reference:** N/A"
+            }
+          ],
+          "prefix_summary": "## Attribution of Profits to Permanent Establishments"
+        },
+        {
+          "title": "Other Relevant Information",
+          "node_id": "0060",
+          "line_num": 323,
+          "nodes": [
+            {
+              "title": "Q46: Other legislative aspects or administrative procedures regarding transfer pricing",
+              "node_id": "0061",
+              "line_num": 325,
+              "summary": "### Q46: Other legislative aspects or administrative procedures regarding transfer pricing\n- **Answer:** N/A\n- **Detail:** N/A\n- **Reference:** N/A"
+            },
+            {
+              "title": "Q47: Other relevant information",
+              "node_id": "0062",
+              "line_num": 330,
+              "summary": "### Q47: Other relevant information\n- **Answer:** N/A\n- **Detail:** N/A\n- **Reference:** N/A"
+            }
+          ],
+          "prefix_summary": "## Other Relevant Information"
+        }
+      ],
+      "prefix_summary": "# United States -- Transfer Pricing Country Profile\n\nSource: OECD, Updated October 2025"
+    }
+  ]
+}
