@@ -159,3 +159,11 @@ Updated: 2026-04-09
 | telecommunications | Telecommunications | experts/industries/telecommunications.md |
 | tobacco | Tobacco | experts/industries/tobacco.md |
 | waste-management | Waste Management | experts/industries/waste-management.md |
+
+## Knowledge files
+
+Experts without knowledge files listed here operate in quick mode only (professional expertise, no verified database). For standard and deep depth, fetch these files.
+
+| Expert | Files |
+|---|---|
+| united-states | knowledge/countries/united-states/country-profile.md |
