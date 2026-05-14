@@ -2,7 +2,15 @@
 
 Base URL: `https://raw.githubusercontent.com/supernomial/knowledge-base/main`
 
-Updated: 2026-04-09
+Updated: 2026-05-14
+
+## Financial benchmarks
+
+Industry-aggregate financial benchmarks for the Cowork plugin's Financial Capacity Analysis (`prep-ft-study`). See `financial-benchmarks/manifest.md` for full index.
+
+| ID | Topic | File |
+|---|---|---|
+| financial-benchmarks | Financial Capacity benchmarks (Damodaran industry medians × 4 geos, rating-coverage lookup, rule-of-thumb thresholds, sector mapping, sources) | financial-benchmarks/manifest.md |
 
 ## Country experts
 
